@@ -2,46 +2,46 @@
    npm:
      name: yarn
      global: yes
-     tags:
-       - install
-       - node
+   tags:
+     - install
+     - node
 
  - name: Install eslint
    npm:
      name: eslint
      global: yes
-     tags:
-       - install
-       - node
+   tags:
+     - install
+     - node
 
  - name: Install Typscript Server
    npm:
      name: typescript-language-server
      global: yes
-     tags:
-       - install
-       - node
+   tags:
+     - install
+     - node
 
  - name: Install Typscript
    npm:
      name: typescript
      global: yes
-     tags:
-       - install
-       - node
+   tags:
+     - install
+     - node
 
  - name: Install TS-Node
    npm:
      name: ts-node
      global: yes
-     tags:
-       - install
-       - node
+   tags:
+     - install
+     - node
 
  - name: Install Nodemon
    npm:
      name: nodemon
      global: yes
-     tags:
-       - install
-       - node
+   tags:
+     - install
+     - node
